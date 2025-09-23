@@ -6,7 +6,7 @@
 
 
 <div align="center">  
-<a href="http://movietiler.github.io/.github">  
+<a href="https://movietiler.github.io/.github">  
 <img src="https://img.shields.io/badge/⬇️_INSTALL_MOVIETILER_ON_MACBOOK-darkgreen?style=for-the-badge&logo=apple" alt="Install MovieTiler on MacBook">  
 </a>  
 </div>  
